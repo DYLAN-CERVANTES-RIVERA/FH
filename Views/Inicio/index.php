@@ -16,7 +16,7 @@
                   <h3 class="block-title">TEXTO</h3>
                 </div>
                 <div class="block-content block-content-full flex-grow-1 d-flex align-items-center">
-                  -----------
+                  ----------- esto es una prueba
                 </div>
               </div>
             </div>
